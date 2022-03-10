@@ -15,7 +15,7 @@ function App() {
         </div>
         <div className='cont1-footer'>
           <a href='https://twitter.com/TiffanyXWoW'>Twitter</a>
-          <a href='https://discord.com/invite/hNwsAU8qzu'>Discord</a>
+          <a href='https://discord.gg/bjBweaZmCQ'>Discord</a>
         </div>
       </div >
       <div id='cont2' className="app-container container-fluid"><Navbar_Header />

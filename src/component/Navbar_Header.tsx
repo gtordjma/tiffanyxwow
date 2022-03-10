@@ -13,7 +13,7 @@ function Navbar_Header() {
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav ml-auto">
                     <li className="nav-item active">
-                        <a className="nav-link navbar-social" href="https://discord.com/invite/hNwsAU8qzu"><img src={navbar_discord} /></a>
+                        <a className="nav-link navbar-social" href="https://discord.gg/bjBweaZmCQ"><img src={navbar_discord} /></a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link navbar-social" href="https://twitter.com/TiffanyXWoW"><img src={navbar_twitter} /></a>
