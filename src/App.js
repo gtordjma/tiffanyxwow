@@ -8,7 +8,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div id='cont1' className="app-container container-fluid"><Navbar_Header />
+      <Navbar_Header />
+      <div id='cont1' className="app-container container-fluid">
         <div className='cont1-center'>
           <img src={center_img} />
           <div>READ MORE</div>
@@ -18,7 +19,7 @@ function App() {
           <a href='https://discord.gg/bjBweaZmCQ'>Discord</a>
         </div>
       </div >
-      <div id='cont2' className="app-container container-fluid"><Navbar_Header />
+      <div id='cont2' className="app-container container-fluid">
         <div className='cont2-center'>
           <ol>
             <li>Deconstructed</li>
@@ -28,7 +29,7 @@ function App() {
           </ol>
         </div>
       </div>
-      <div id='cont3' className="app-container container-fluid"><Navbar_Header />
+      <div id='cont3' className="app-container container-fluid">
 
         <div className="cont3-img">
           <img src={wow_img} />
@@ -44,7 +45,7 @@ function App() {
             Tiffany X WOW is a homage to WOW project and to the Tiffany brand.</p>
         </div>
       </div>
-      <div id='cont4' className="app-container container-fluid"><Navbar_Header />
+      <div id='cont4' className="app-container container-fluid">
         <div className="cont4-txt">
           <h2>Rewarding our Family</h2>
           <p>
@@ -60,7 +61,7 @@ function App() {
           <img src={gift_img} />
         </div>
       </div>
-      <div id='cont5' className="app-container container-fluid"><Navbar_Header />
+      <div id='cont5' className="app-container container-fluid">
         <div className="cont5-img">
           <img src={world_img} />
         </div>
@@ -70,7 +71,7 @@ function App() {
           <p>Coming soon....</p>
         </div>
       </div>
-      <div id='cont6' className="app-container container-fluid"><Navbar_Header />
+      <div id='cont6' className="app-container container-fluid">
         <div className='cont6-center'>
           <h2>#BLUEARMY</h2>
           <div>MINT SOON</div>

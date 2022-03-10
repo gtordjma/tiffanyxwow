@@ -33,6 +33,7 @@ code {
 .navbar {
   padding-top: 20px;
  background-color: #81d8d0 !important;
+ box-shadow: 0px 1px 7px black;
 }
 
 .navbar-social {
